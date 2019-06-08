@@ -1,0 +1,191 @@
+
+.logo, .nav{
+    padding-top: 21px
+}
+
+.nav a {
+    height: fit-content;
+}
+
+.header{
+    height: 630px;
+    background-repeat: no-repeat;
+    background: linear-gradient(to bottom, rgba(7, 26, 46, 40), rgba(24, 79, 136, 0)), url("../images/Bitmap.png");
+    color:white;
+}
+.header a {
+    color: white;
+}
+
+.action-header{
+    padding-top:200px;
+}
+
+.section2{
+    padding-bottom: 70px;
+}
+
+.action-section2, .action-sectio4{
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.action-section2 h4, .action-sectio4 h4{
+    padding-bottom: 5px;
+}
+
+.blue-background{
+    background-color: #1E88F5;
+}
+
+.gray-background {
+    background-color: #DCE1E7;
+}
+
+.circle-background{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.process div{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.process>div>p{
+    height: 40px;
+}
+
+.add-more{
+    position: absolute;
+    padding-top: 47px;
+    z-index: 3;
+    padding-left: 5px
+}
+
+.add-more img{
+    width: 40px;
+}
+
+.cards{
+    margin-top: -50px;
+}
+
+.info-card{
+    height: 230px;
+    margin: 15px;
+    box-shadow: 2px 2px 8px grey;
+    padding-left: 60px;
+    padding-top: 60px;
+    background: white;
+}
+
+#section3-action{
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+#section3-action h2{
+    width: 80%;
+}
+
+#section3-action .btn{
+    color: white;
+}
+
+.section3{
+
+    background: linear-gradient(to right, rgba(7, 26, 46, 60), rgba(24, 79, 136, 0)), url("../images/Bitmap-section3.png");
+    background-repeat: no-repeat;
+    height: 645px;
+}
+
+.section4{
+    padding-bottom: 80px;
+}
+
+.action-sectio4{
+    padding-top: 120px;
+}
+
+.header-budget{
+    text-align: center;
+}
+.selection{
+    margin-right: 40px;
+}
+
+.selection, .global{
+    border: solid 1px #AFAAAA;
+    padding: 0px;
+}
+.selection .header-budget{
+    background: #1E88F5;
+    color: white;
+}
+
+.header-budget{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.header-budget h3{
+    font-size: 60px;
+}
+.header-budget h3 span{
+    font-size: 20px;
+
+}
+
+.body-budget{
+    padding-top: 40px;
+}
+
+.body-budget p {
+    font-size: 20px;
+}
+
+.body-budget img{
+    width: 40px;
+}
+
+.global .header-budget{
+    background: #FFCC01;
+    color: white;
+}
+
+.global .footer-budget a{
+    background: #FFCC01;
+}
+
+.footer-budget{
+    padding-top: 50px;
+    padding-bottom: 50px
+}
+
+.section5{
+    padding-bottom: 80px;
+}
+
+.profit div{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.profit .add-more{
+    padding-top: 0px;   
+}
+
+.profit h3{
+    padding-top: 40px;
+}
+
+.footer{
+    align-items: center;
+}
+
+.footer a {
+    text-decoration: none;
+    color: gray;
+}
